@@ -28,6 +28,5 @@
 - In the main directory run `go run build` to build the project
 
 ## Usage
-- Run `go run build` to build the project.
 - To encode a string, run `./vowels-coder`, enter the text that must be encoded.
 - To decode a string, run `./vowels-coder -d`, enter the text that must be decoded.
